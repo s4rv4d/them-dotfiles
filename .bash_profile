@@ -76,4 +76,3 @@ PS1+="\[${lime}\]\$ \[${reset}\]"; # `$` (and reset color)
 #PS1+="\[${lime}\]\$ \[${reset}\]";
 
 export PS1;
-#sources from Mathias Bynens’ dotfiles

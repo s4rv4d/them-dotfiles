@@ -26,5 +26,3 @@ function a() {
 		atom "$@";
 	fi;
 }
-
-#sources from Mathias Bynens’ dotfiles

@@ -65,6 +65,3 @@ alias dropbox="cd ~/Dropbox"
 alias downloads="cd ~/Downloads"
 alias desktop="cd ~/Desktop"
 alias g="git"
-
-
-#sources from Mathias Bynens’ dotfiles
